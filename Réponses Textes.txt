@@ -1,0 +1,20 @@
+JAVA TD1: #Answers
+----Exercice 1:
+1) Refer to code
+2) A list of all the objects, functions and variable types that can be used in the method pops out 
+3) 
+4) 
+5)
+6)
+7)
+----Exercice 2:
+1) Refer to code
+2) Refer to code. An error saying that the main class doesn't have access to x and y. We can fix it 
+by writing getters for x and y and calling p.getx and p.gety instead of p.x and p.y 
+3) to limit the access
+4) An accessor is a getter. Yes we need it to access x and y 
+5) Refer to code
+6) Rtc
+7) Rtc
+
+ 
