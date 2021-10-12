@@ -13,7 +13,7 @@ public class TestPoint {
 		System.out.println(p1.getX()+" "+p1.getY());
 		System.out.println(Point.nbpts+" points ont été créé!");
 		System.out.println(p2.toString());
-		// Exercice 3
+		// Exercise 3
 		Point p3=new Point(1,2);
 		Point p4=p3;
 		Point p5=new Point(1,2);
@@ -21,7 +21,7 @@ public class TestPoint {
 		System.out.println(p3==p5); // cf haut
 		System.out.println(isSameAs(p4, p3));
 		System.out.println(isSameAs(p1, p5));
-		//Dernière question
+		//Last question
 		 Point px=new Point(4,5);
 		 Point py=px;
 		 Point pz=new Point(4,5);
@@ -29,6 +29,5 @@ public class TestPoint {
 		 list.add(px);
 		 System.out.println(list.indexOf(py));
 		 System.out.println(list.indexOf(pz));
-
 	}
 }
